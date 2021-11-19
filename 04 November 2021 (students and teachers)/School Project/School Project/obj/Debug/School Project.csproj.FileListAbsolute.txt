@@ -1,0 +1,8 @@
+C:\Users\fuzzy\Desktop\homework\04 November 2021 (students and teachers)\School Project\School Project\bin\Debug\School Project.exe.config
+C:\Users\fuzzy\Desktop\homework\04 November 2021 (students and teachers)\School Project\School Project\bin\Debug\School Project.exe
+C:\Users\fuzzy\Desktop\homework\04 November 2021 (students and teachers)\School Project\School Project\bin\Debug\School Project.pdb
+C:\Users\fuzzy\Desktop\homework\04 November 2021 (students and teachers)\School Project\School Project\obj\Debug\School Project.csproj.AssemblyReference.cache
+C:\Users\fuzzy\Desktop\homework\04 November 2021 (students and teachers)\School Project\School Project\obj\Debug\School Project.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\homework\04 November 2021 (students and teachers)\School Project\School Project\obj\Debug\School Project.exe
+C:\Users\fuzzy\Desktop\homework\04 November 2021 (students and teachers)\School Project\School Project\obj\Debug\School Project.pdb
+C:\Users\fuzzy\Desktop\homework\04 November 2021 (students and teachers)\School Project\School Project\obj\Debug\School Project.csproj.SuggestedBindingRedirects.cache

@@ -1,0 +1,22 @@
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\bin\Debug\net5.0-windows\medical appoinntment application.exe
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\bin\Debug\net5.0-windows\medical appoinntment application.deps.json
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\bin\Debug\net5.0-windows\medical appoinntment application.runtimeconfig.json
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\bin\Debug\net5.0-windows\medical appoinntment application.runtimeconfig.dev.json
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\bin\Debug\net5.0-windows\medical appoinntment application.dll
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\bin\Debug\net5.0-windows\ref\medical appoinntment application.dll
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\bin\Debug\net5.0-windows\medical appoinntment application.pdb
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\medical appoinntment application.csproj.AssemblyReference.cache
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\medical appoinntment application_MarkupCompile.cache
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\medical appoinntment application_MarkupCompile.lref
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\medical appoinntment application.g.resources
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\medical appoinntment application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\medical appoinntment application.AssemblyInfoInputs.cache
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\medical appoinntment application.AssemblyInfo.cs
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\medical appoinntment application.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\medical appoinntment application.dll
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\ref\medical appoinntment application.dll
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\medical appoinntment application.pdb
+C:\Users\fuzzy\Desktop\homework\18 November\medical\medical appoinntment application\obj\Debug\net5.0-windows\medical appoinntment application.genruntimeconfig.cache

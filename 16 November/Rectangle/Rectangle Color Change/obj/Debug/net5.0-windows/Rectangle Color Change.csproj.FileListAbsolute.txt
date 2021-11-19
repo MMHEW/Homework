@@ -1,0 +1,22 @@
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\bin\Debug\net5.0-windows\Rectangle Color Change.exe
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\bin\Debug\net5.0-windows\Rectangle Color Change.deps.json
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\bin\Debug\net5.0-windows\Rectangle Color Change.runtimeconfig.json
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\bin\Debug\net5.0-windows\Rectangle Color Change.runtimeconfig.dev.json
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\bin\Debug\net5.0-windows\Rectangle Color Change.dll
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\bin\Debug\net5.0-windows\ref\Rectangle Color Change.dll
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\bin\Debug\net5.0-windows\Rectangle Color Change.pdb
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\Rectangle Color Change.csproj.AssemblyReference.cache
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\Rectangle Color Change_MarkupCompile.cache
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\Rectangle Color Change_MarkupCompile.lref
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\Rectangle Color Change.g.resources
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\Rectangle Color Change.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\Rectangle Color Change.AssemblyInfoInputs.cache
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\Rectangle Color Change.AssemblyInfo.cs
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\Rectangle Color Change.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\Rectangle Color Change.dll
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\ref\Rectangle Color Change.dll
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\Rectangle Color Change.pdb
+C:\Users\fuzzy\Desktop\homework\16 November\Rectangle\Rectangle Color Change\obj\Debug\net5.0-windows\Rectangle Color Change.genruntimeconfig.cache

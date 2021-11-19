@@ -1,0 +1,159 @@
+header{
+    display: block;
+    height: 10%;    
+    background: lightgrey;
+
+
+}
+
+header img{
+    height: 56px;
+    width: 75px;
+    left: 2rem;
+    top: 2rem;
+}
+header nav{
+    right: 2rem;
+    top: 2rem;
+}
+
+
+
+main{
+    margin:5%, 1%;
+    border-style: solid;
+    border-color:aqua;
+
+}
+
+
+footer{
+    background-color:lightgrey;
+    display: block;
+    height: 300px;
+    width:100%;
+    height:4rem;
+    position: relative;
+    
+}
+
+nav{
+
+    border-style: solid;
+    border-color: #2196F3;  
+    text-align: center;  
+    width: 200px;
+    float:right;
+}
+
+footer nav{
+    position:relative;
+    background-position-x: 100%;
+    background-position-y: 0%;
+
+}
+
+footer img{
+    height: 56px;
+    width: 75px;
+    border-style:solid;
+    border-color: rgb(116, 29, 124);
+    position: absolute;
+}
+
+
+footer p{
+    
+    text-align:center;
+    
+    position:absolute;
+    bottom:0%;
+    left:40%;
+    
+    
+}
+
+header img {
+
+    border-style: solid;
+    border-color: #ff0000;
+    
+
+}
+
+header img:hover {
+
+    border-style: dotted;
+    border-color: #53014f;
+    
+
+}
+
+ 
+
+main img{
+    width:100%;
+}
+
+
+
+li{
+   display:inline-block;
+}
+
+a{
+    text-decoration:none;
+    color:black;
+    font-weight:bold;
+}
+
+nav:hover{
+    border-style: solid;
+    border-color : black;
+}
+
+header nav li{
+    background: red;
+}
+#hHome:hover{
+   background: blue; 
+}
+#hAbout:hover{
+    background: blue; 
+ }
+ #hContact:hover{
+    background: blue; 
+ }
+
+
+ footer nav ul li{
+    background: blue;
+}
+
+
+ #fHome:hover{
+    background: red; 
+ }
+ #fAbout:hover{
+     background: red; 
+  }
+  #fContact:hover{
+     background: red; 
+  }
+
+ 
+
+
+
+main:hover{
+    border-style: dotted;
+    border-color: royalblue;
+    
+}
+
+
+@media only screen and (max-width: 800px) {
+    body {
+      background-color: lightblue;
+    }
+  }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "34982eeb-c67d-4985-92eb-b19ca8c41ca0": {
+      "ProjectGuid": "34982eeb-c67d-4985-92eb-b19ca8c41ca0",
+      "DisplayName": "Rectangle Color Change",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

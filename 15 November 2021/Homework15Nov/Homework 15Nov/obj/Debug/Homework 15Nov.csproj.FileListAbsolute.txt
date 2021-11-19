@@ -1,0 +1,8 @@
+C:\Users\fuzzy\Desktop\homework\15 November 2021\Homework15Nov\Homework 15Nov\bin\Debug\Homework 15Nov.exe.config
+C:\Users\fuzzy\Desktop\homework\15 November 2021\Homework15Nov\Homework 15Nov\bin\Debug\Homework 15Nov.exe
+C:\Users\fuzzy\Desktop\homework\15 November 2021\Homework15Nov\Homework 15Nov\bin\Debug\Homework 15Nov.pdb
+C:\Users\fuzzy\Desktop\homework\15 November 2021\Homework15Nov\Homework 15Nov\obj\Debug\Homework 15Nov.csproj.AssemblyReference.cache
+C:\Users\fuzzy\Desktop\homework\15 November 2021\Homework15Nov\Homework 15Nov\obj\Debug\Homework 15Nov.csproj.SuggestedBindingRedirects.cache
+C:\Users\fuzzy\Desktop\homework\15 November 2021\Homework15Nov\Homework 15Nov\obj\Debug\Homework 15Nov.csproj.CoreCompileInputs.cache
+C:\Users\fuzzy\Desktop\homework\15 November 2021\Homework15Nov\Homework 15Nov\obj\Debug\Homework 15Nov.exe
+C:\Users\fuzzy\Desktop\homework\15 November 2021\Homework15Nov\Homework 15Nov\obj\Debug\Homework 15Nov.pdb

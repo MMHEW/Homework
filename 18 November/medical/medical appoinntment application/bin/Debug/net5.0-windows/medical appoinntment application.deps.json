@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "medical appoinntment application/1.0.0": {
+        "runtime": {
+          "medical appoinntment application.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "medical appoinntment application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
