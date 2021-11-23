@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fuzzy\\Desktop\\homework\\18 November\\medical\\Patients\\Patients.csproj",
-      "projectName": "Patients",
-      "projectPath": "C:\\Users\\fuzzy\\Desktop\\homework\\18 November\\medical\\Patients\\Patients.csproj",
+      "projectUniqueName": "C:\\Users\\fuzzy\\Desktop\\homework\\18 November\\medical\\Patients\\Hospital Patients.csproj",
+      "projectName": "Hospital Patients",
+      "projectPath": "C:\\Users\\fuzzy\\Desktop\\homework\\18 November\\medical\\Patients\\Hospital Patients.csproj",
       "packagesPath": "C:\\Users\\fuzzy\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\fuzzy\\Desktop\\homework\\18 November\\medical\\Patients\\obj\\",
       "projectStyle": "PackageReference",

@@ -8,5 +8,15 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Label Content="Hello World I am employee"/>
+        <ListBox>
+            <DataTemplate>
+                <DockPanel>
+                    <StackPanel>
+                        <TextBlock Text = "PT Name"/>
+                        <TextBlock Text= "PT Age"/>
+                    </StackPanel>
+                </DockPanel>
+            </DataTemplate>
+        </ListBox>
     </Grid>
 </Window>

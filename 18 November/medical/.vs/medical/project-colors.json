@@ -3,12 +3,12 @@
   "ProjectMap": {
     "5ad597df-8e8b-459d-a65b-b860651e8d0a": {
       "ProjectGuid": "5ad597df-8e8b-459d-a65b-b860651e8d0a",
-      "DisplayName": "medical appoinntment application",
+      "DisplayName": "Hospital",
       "ColorIndex": 0
     },
     "62ca9e71-1431-4a8e-8357-8b329091bbf7": {
       "ProjectGuid": "62ca9e71-1431-4a8e-8357-8b329091bbf7",
-      "DisplayName": "Patients",
+      "DisplayName": "Hospital Patients",
       "ColorIndex": 1
     },
     "5cb4a8c4-0d31-4750-a7f1-924c6870cd44": {

@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fuzzy\\Desktop\\homework\\18 November\\medical\\medical appoinntment application\\medical appoinntment application.csproj",
-      "projectName": "medical appoinntment application",
-      "projectPath": "C:\\Users\\fuzzy\\Desktop\\homework\\18 November\\medical\\medical appoinntment application\\medical appoinntment application.csproj",
+      "projectUniqueName": "C:\\Users\\fuzzy\\Desktop\\homework\\18 November\\medical\\medical appoinntment application\\Hospital.csproj",
+      "projectName": "Hospital",
+      "projectPath": "C:\\Users\\fuzzy\\Desktop\\homework\\18 November\\medical\\medical appoinntment application\\Hospital.csproj",
       "packagesPath": "C:\\Users\\fuzzy\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\fuzzy\\Desktop\\homework\\18 November\\medical\\medical appoinntment application\\obj\\",
       "projectStyle": "PackageReference",

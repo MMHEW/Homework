@@ -30,9 +30,9 @@ namespace Settings
         Setting setting3;
         
         
-        public bool wasS1 = true;
-        public bool wasS2 = false;
-        public bool wasS3 = false;
+        //public bool wasS1 = true;
+        //public bool wasS2 = false;
+        //public bool wasS3 = false;
 
         public MainWindow()
         {

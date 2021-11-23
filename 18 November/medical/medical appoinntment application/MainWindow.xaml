@@ -5,8 +5,74 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:medical_appoinntment_application"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="600">
     <Grid>
-        <Label Content="Hello World"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="150"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>            
+        </Grid.RowDefinitions>
+        <ListBox x:Name="Max" ItemsSource="{Binding Patient}" Grid.RowSpan="11" >
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <DockPanel >
+                        <Image Source="https://www.pngarts.com/files/13/Cash-PNG-Image-Background.png" Width="30" Height="30" Margin="0,0,5,0"/>
+                        <StackPanel>
+                            <!--<TextBlock Text = "{Binding FirstName}"/>
+                            <TextBlock Text="{Binding LastName}"/>-->
+                            <TextBlock Text="{Binding Name}"/>
+                            <TextBlock Text= "{Binding Age}" />
+                        </StackPanel>
+                    </DockPanel>                    
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <Label HorizontalAlignment="Left" Grid.Column="1" Content="First Name" Grid.Row="0" Margin="100,0,0,0"/>
+        <TextBlock HorizontalAlignment="Right" Grid.Column="1" Text="{Binding ElementName=Max, Path=SelectedItem.FirstName}" Grid.Row="0" Margin="0,0,100,0"/>
+
+        <Label HorizontalAlignment="Left" Grid.Column="1" Content="Last Name" Grid.Row="1" Margin="100,0,0,0"/>
+        <TextBlock HorizontalAlignment="Right" Grid.Column="1" Text="{Binding ElementName=Max, Path=SelectedItem.LastName}" Grid.Row="1" Margin="0,0,100,0"/>
+
+        <Label HorizontalAlignment="Left" Grid.Column="1" Content="Age" Grid.Row="2" Margin="100,0,0,0"/>
+        <TextBlock HorizontalAlignment="Right" Grid.Column="1" Text="{Binding ElementName=Max, Path=SelectedItem.Age}" Grid.Row="2" Margin="0,0,100,0"/>
+
+        <Label HorizontalAlignment="Left" Grid.Column="1" Content="Gender" Grid.Row="3" Margin="100,0,0,0"/>
+        <TextBlock HorizontalAlignment="Right" Grid.Column="1" Text="{Binding ElementName=Max, Path=SelectedItem.Gender}" Grid.Row="3" Margin="0,0,100,0"/>
+
+        <Label HorizontalAlignment="Left" Grid.Column="1" Content="Blood Type" Grid.Row="4" Margin="100,0,0,0"/>
+        <TextBlock HorizontalAlignment="Right" Grid.Column="1" Text="{Binding ElementName=Max, Path=SelectedItem.BloodType}" Grid.Row="4" Margin="0,0,100,0"/>
+
+        <Label HorizontalAlignment="Left" Grid.Column="1" Content="Diabetes" Grid.Row="5" Margin="100,0,0,0"/>
+        <TextBlock HorizontalAlignment="Right" Grid.Column="1" Text="{Binding ElementName=Max, Path=SelectedItem.Diabetes}" Grid.Row="5" Margin="0,0,100,0"/>
+        
+        <Label HorizontalAlignment="Left" Grid.Column="1" Content="HIV" Grid.Row="6" Margin="100,0,0,0"/>
+        <TextBlock HorizontalAlignment="Right" Grid.Column="1" Text="{Binding ElementName=Max, Path=SelectedItem.HIV}" Grid.Row="6" Margin="0,0,100,0"/>
+
+        <Label HorizontalAlignment="Left" Grid.Column="1" Content="Weight" Grid.Row="7" Margin="100,0,0,0"/>
+        <TextBlock HorizontalAlignment="Right" Grid.Column="1" Text="{Binding ElementName=Max, Path=SelectedItem.Weight}" Grid.Row="7" Margin="0,0,100,0"/>
+
+        <Label HorizontalAlignment="Left" Grid.Column="1" Content="Height" Grid.Row="8" Margin="100,0,0,0"/>
+        <TextBlock HorizontalAlignment="Right" Grid.Column="1" Text="{Binding ElementName=Max, Path=SelectedItem.Height}" Grid.Row="8" Margin="0,0,100,0"/>
+
+        <Label HorizontalAlignment="Left" Grid.Column="1" Content="SSN" Grid.Row="9" Margin="100,0,0,0"/>
+        <TextBlock HorizontalAlignment="Right" Grid.Column="1" Text="{Binding ElementName=Max, Path=SelectedItem.SSN}" Grid.Row="9" Margin="0,0,100,0"/>
+
+        <Label HorizontalAlignment="Left" Grid.Column="1" Content="Insurance" Grid.Row="10" Margin="100,0,0,0"/>
+        <TextBlock HorizontalAlignment="Right" Grid.Column="1" Text="{Binding ElementName=Max, Path=SelectedItem.Insurance}" Grid.Row="10" Margin="0,0,100,0"/>
+
+
     </Grid>
 </Window>

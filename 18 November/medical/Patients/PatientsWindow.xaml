@@ -12,22 +12,22 @@
             <ColumnDefinition/>
         </Grid.ColumnDefinitions>
 
-        <StackPanel Grid.Column="0" HorizontalAlignment="Center">
-            <Label Content="First Name" FontSize="20"/>
-            <Label Content="Last Name" FontSize="20"/>
-            <Label Content="Age" FontSize="20"/>
-            <Label Content="Gender" FontSize="20"/>
-            <Label Content="Blood Type" FontSize="20"/>
-            <Label Content="Diabetes" FontSize="20"/>
-            <Label Content="HIV" FontSize="20"/>
-            <Label Content="Weight" FontSize="20"/>
-            <Label Content="Height" FontSize="20"/>
-            <Label Content="SSN" FontSize="20"/>
-            <Label Content="insurance" FontSize="20"/>
+        <StackPanel Grid.Column="0" HorizontalAlignment="Center" Background="Magenta" >
+            <Label Content="First Name" FontSize="20" FontWeight="Bold"/>
+            <Label Content="Last Name" FontSize="20" FontWeight="Bold"/>
+            <Label Content="Age" FontSize="20" FontWeight="Bold"/>
+            <Label Content="Gender" FontSize="20" FontWeight="Bold"/>
+            <Label Content="Blood Type" FontSize="20" FontWeight="Bold"/>
+            <Label Content="Diabetes" FontSize="20" FontWeight="Bold"/>
+            <Label Content="HIV" FontSize="20" FontWeight="Bold"/>
+            <Label Content="Weight" FontSize="20" FontWeight="Bold"/>
+            <Label Content="Height" FontSize="20" FontWeight="Bold"/>
+            <Label Content="SSN" FontSize="20" FontWeight="Bold"/>
+            <Label Content="Insurance?" FontSize="20" Width="201" FontWeight="Bold"/>
 
         </StackPanel>
-        
-        <StackPanel Grid.Column="1">
+
+        <StackPanel Grid.Column="1" Background="Aqua">
             <TextBox  Margin="0,10,0,0"/>
             <TextBox  Margin="0,20,0,0"/>
             <TextBox  Margin="0,20,0,0"/>
@@ -39,28 +39,31 @@
             <ComboBox Margin="0,17,0,0">
                 <ComboBoxItem Content="A+"/>
                 <ComboBoxItem Content="A-"/>
-                <ComboBoxItem Content="B+"/>.
+                <ComboBoxItem Content="B+"/> .
                 <ComboBoxItem Content="B-"/>
                 <ComboBoxItem Content="AB+"/>
                 <ComboBoxItem Content="AB-"/>
                 <ComboBoxItem Content="O+"/>
-                <ComboBoxItem Content="O-"/>                
+                <ComboBoxItem Content="O-"/>
             </ComboBox>
             <StackPanel  Margin="0,17,0,0" Orientation="Horizontal">
-                <RadioButton Content="Yes" Margin="25,0,0,0"/>
-                <RadioButton Content="No" Margin="25,0,0,0"/>
-                <RadioButton Content="Awaiting Test Results" Margin="25,0,0,0"/>
+                <RadioButton GroupName="Diabetes"  Content="Yes" Margin="25,0,0,0"/>
+                <RadioButton GroupName="Diabetes" Content="No" Margin="25,0,0,0"/>
+                <RadioButton GroupName="Diabetes" Content="Awaiting Test Results" Margin="25,0,0,0"/>
             </StackPanel>
             <StackPanel  Margin="0,17,0,0" Orientation="Horizontal">
-                <RadioButton Content="Yes" Margin="25,0,0,0"/>
-                <RadioButton Content="No" Margin="25,0,0,0"/>
-                <RadioButton Content="Awaiting Test Results" Margin="25,0,0,0"/>
+                <RadioButton GroupName="HIV" Content="Yes" Margin="25,0,0,0"/>
+                <RadioButton GroupName="HIV"  Content="No" Margin="25,0,0,0"/>
+                <RadioButton GroupName="HIV"  Content="Awaiting Test Results" Margin="25,0,0,0"/>
             </StackPanel>
             <TextBox  Margin="0,17,0,0" />
             <TextBox  Margin="0,17,0,0"/>
             <TextBox  Margin="0,17,0,0"/>
-            <TextBox  Margin="0,17,0,0"/>
+            <StackPanel  Margin="0,17,0,0" Orientation="Horizontal">
+                <RadioButton GroupName="Insurance" Content="Yes" Margin="25,0,0,0"/>
+                <RadioButton GroupName="Insurance"  Content="No" Margin="25,0,0,0"/>
+            </StackPanel>
         </StackPanel>
-        
+        <Button x:Name="Submit" Content="Submit" Height="20" Grid.Column="1" Margin="150,404,350,10"/>
     </Grid>
 </Window>

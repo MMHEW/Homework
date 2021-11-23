@@ -37,9 +37,9 @@
 
 
         <StackPanel x:Name="stack1"  Grid.Column="2" Grid.Row="1" Orientation="Horizontal" Margin="10,10,10,10">
-            <RadioButton  Grid.Column="2" Grid.Row="1" Content="Easy" Margin="10,10,10,10" IsChecked="{Binding DifficultyE0, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
-            <RadioButton Grid.Column="2" Grid.Row="1" Content="Medium" Margin="10,10,10,10" IsChecked="{Binding DifficultyM0, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
-            <RadioButton Grid.Column="2" Grid.Row="1" Content="Hard"  Margin="10,10,10,10" IsChecked="{Binding DifficultyH0, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+            <RadioButton GroupName="diff" Grid.Column="2" Grid.Row="1" Content="Easy" Margin="10,10,10,10" IsChecked="{Binding DifficultyE0, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+            <RadioButton GroupName="diff" Grid.Column="2" Grid.Row="1" Content="Medium" Margin="10,10,10,10" IsChecked="{Binding DifficultyM0, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+            <RadioButton GroupName="diff" Grid.Column="2" Grid.Row="1" Content="Hard"  Margin="10,10,10,10" IsChecked="{Binding DifficultyH0, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
             
         </StackPanel>
 
