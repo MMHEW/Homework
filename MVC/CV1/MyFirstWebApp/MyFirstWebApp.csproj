@@ -5,6 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\Images\GamingPC1.jpg" />
+    <None Include="wwwroot\Images\GamingPC2.jpg" />
+    <None Include="wwwroot\Images\GamingPC3.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="5.0.2" />
   </ItemGroup>
 

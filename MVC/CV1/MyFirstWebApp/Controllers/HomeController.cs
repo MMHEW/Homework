@@ -28,7 +28,7 @@ namespace MyFirstWebApp.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult ContactMe()
         {
             return View();
         }

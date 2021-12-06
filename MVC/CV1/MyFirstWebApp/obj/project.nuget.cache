@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4xnBjcW4AMsOXJyPDUk3nTLDlb6q2irLqLZ0pbKgO8OKnXwEviEujp0oFqTHwF8oR+wiwAsgBq4OS/zCnHtROg==",
+  "dgSpecHash": "2bDSZywneDB97QjOwv9LLmu6fiuEfH4So4ye0oEvUcgIzypNGL5OMXW6wkFilggOGdLzJxZ3Wmy0pI0Z6Olsmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fuzzy\\Desktop\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj",
+  "projectFilePath": "C:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fuzzy\\.nuget\\packages\\humanizer.core\\2.2.0\\humanizer.core.2.2.0.nupkg.sha512",
     "C:\\Users\\fuzzy\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

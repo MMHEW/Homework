@@ -7,14 +7,23 @@ a.navbar-brand {
   word-break: break-all;
   
 }
-.container-main{
-    background-color: maroon;
-    color: darkgoldenrod;
+.container-main {
+    background-color: #5a0002;
+    color: #d7cf07;
 }
-
+.carouselSize{
+    height:50%;
+    width: 50%;
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+}
+.indexMargin{
+    padding-top: 256px;
+}
 /* Provide sufficient contrast against white background */
-.navigation{
-    background-color: #650000;
+.navigation {
+    background-color: #4f000b;
 }
 
 .btn-primary {
@@ -32,8 +41,8 @@ a.navbar-brand {
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  font-size: 14px;
-  background-color:maroon;
+    font-size: 14px;
+    background-color: #5a0002;
 }
 @media (min-width: 768px) {
   html {
@@ -52,9 +61,13 @@ html {
   box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
 }
 
+.navAlignment{
+    justify-content: right;
+}
+
 button.accept-policy {
-  font-size: 1rem;
-  line-height: inherit;
+    font-size: 1rem;
+    line-height: inherit;
 }
 
 /* Sticky footer styles
@@ -83,11 +96,11 @@ footer{
     color: white;
 }
 
-header{
-    background-color: #650000;
+header {
+    background-color: #4f000b;
 }
 
-.colorAlign{
-    color:darkgoldenrod;
-    font-size:x-large;
+.colorAlign {
+    color: #ff9b54;
+    font-size: x-large;
 }

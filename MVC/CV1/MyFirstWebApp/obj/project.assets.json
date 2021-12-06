@@ -6238,11 +6238,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fuzzy\\Desktop\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj",
+      "projectUniqueName": "C:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp.csproj",
       "projectName": "MyFirstWebApp",
-      "projectPath": "C:\\Users\\fuzzy\\Desktop\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj",
+      "projectPath": "C:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp.csproj",
       "packagesPath": "C:\\Users\\fuzzy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fuzzy\\Desktop\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp\\obj\\",
+      "outputPath": "C:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
