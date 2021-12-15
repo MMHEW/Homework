@@ -1,7 +1,6 @@
 --step 1
 
 drop database Warehouse
-
 create database Warehouse;
 
 use Warehouse;
