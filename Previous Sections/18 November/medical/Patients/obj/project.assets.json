@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fuzzy\\Desktop\\homework\\18 November\\medical\\Patients\\Hospital Patients.csproj",
+      "projectUniqueName": "C:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\Previous Sections\\18 November\\medical\\Patients\\Hospital Patients.csproj",
       "projectName": "Hospital Patients",
-      "projectPath": "C:\\Users\\fuzzy\\Desktop\\homework\\18 November\\medical\\Patients\\Hospital Patients.csproj",
+      "projectPath": "C:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\Previous Sections\\18 November\\medical\\Patients\\Hospital Patients.csproj",
       "packagesPath": "C:\\Users\\fuzzy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fuzzy\\Desktop\\homework\\18 November\\medical\\Patients\\obj\\",
+      "outputPath": "C:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\Previous Sections\\18 November\\medical\\Patients\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
