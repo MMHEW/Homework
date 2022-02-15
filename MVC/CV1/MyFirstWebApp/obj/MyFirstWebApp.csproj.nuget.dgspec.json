@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp.csproj": {}
+    "c:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp.csproj": {
+    "c:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp.csproj",
+        "projectUniqueName": "c:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp.csproj",
         "projectName": "MyFirstWebApp",
-        "projectPath": "C:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp.csproj",
+        "projectPath": "c:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\MyFirstWebApp.csproj",
         "packagesPath": "C:\\Users\\fuzzy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\obj\\",
+        "outputPath": "c:\\Users\\fuzzy\\Desktop\\Git Repos\\homework\\MVC\\CV1\\MyFirstWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
